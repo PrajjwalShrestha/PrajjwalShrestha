@@ -12,9 +12,9 @@ Zoonotic diseases, veterinary microbiology, and One Health
 ## 📚 Publications
 https://scholar.google.com/citations?user=1PNIYpoAAAAJ&hl=en&oi=ao 
 
-## 🧠 💻 Technical Skills
-Programming & Data Analysis: Python, R, SPSS, Statistical Analysis
-Bioinformatics: RNA-seq Analysis, DESeq2, Seurat, Cytoscape, Data Visualization
+## 🧠 💻 Technical Skills. 
+Programming & Data Analysis: Python, R, SPSS, Statistical Analysis. 
+Bioinformatics: RNA-seq Analysis, DESeq2, Seurat, Cytoscape, Data Visualization.  
 Laboratory Methods: Bacterial Culture, Antimicrobial Susceptibility Testing, PCR, RT-qPCR, Flow Cytometry, Confocal Microscopy 
 
 
