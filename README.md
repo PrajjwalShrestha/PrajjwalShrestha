@@ -1,8 +1,8 @@
 ## Hi there 👋
-🎓 Education. 
+🎓 **Education** 
 
 
-📚 Publications  
+📚 **Publications**  
 
 ## 🧠 **Skills & Analysis Expertise**. 
 
